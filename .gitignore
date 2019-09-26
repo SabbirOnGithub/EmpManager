@@ -2,3 +2,11 @@
 /EmployeeManagement/.vs/EmployeeManagement/v16/*.suo
 /EmployeeManagement/.vs/EmployeeManagement/v16/Server/sqlite3/*.lock
 /EmployeeManagement/.vs/EmployeeManagement/v16/Server/sqlite3/*.ide
+/EmployeeManagement/.vs/EmployeeManagement/v15/Server/sqlite3/*.lock
+/EmployeeManagement/.vs/EmployeeManagement/v15/Server/sqlite3/*.ide-shm
+/EmployeeManagement/.vs/EmployeeManagement/v15/Server/sqlite3/*.ide-wal
+/EmployeeManagement/*.user
+obj
+bin
+*.ide
+*.suo
